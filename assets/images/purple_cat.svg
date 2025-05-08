@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <g>
+    <!-- Main body -->
+    <path d="M 250 150 C 180 150 120 200 120 280 C 120 360 180 400 250 400 C 320 400 380 360 380 280 C 380 200 320 150 250 150 Z" fill="#e6d4e8" stroke="#b1a0b5" stroke-width="10"/>
+    
+    <!-- Ears -->
+    <path d="M 190 160 L 160 120 L 220 120 Z" fill="#e6d4e8" stroke="#b1a0b5" stroke-width="10"/>
+    <path d="M 310 160 L 280 120 L 340 120 Z" fill="#e6d4e8" stroke="#b1a0b5" stroke-width="10"/>
+    
+    <!-- Inner ears -->
+    <path d="M 190 155 L 175 130 L 205 130 Z" fill="#d4b4d8"/>
+    <path d="M 310 155 L 295 130 L 325 130 Z" fill="#d4b4d8"/>
+    
+    <!-- Belly patch -->
+    <ellipse cx="250" cy="330" rx="60" ry="50" fill="#f0e4f2"/>
+    
+    <!-- Whiskers -->
+    <line x1="130" y1="240" x2="180" y2="250" stroke="#b1a0b5" stroke-width="3"/>
+    <line x1="130" y1="260" x2="180" y2="260" stroke="#b1a0b5" stroke-width="3"/>
+    <line x1="320" y1="250" x2="370" y2="240" stroke="#b1a0b5" stroke-width="3"/>
+    <line x1="320" y1="260" x2="370" y2="260" stroke="#b1a0b5" stroke-width="3"/>
+    
+    <!-- Face -->
+    <path d="M 220 270 C 230 280 270 280 280 270" fill="none" stroke="#b1a0b5" stroke-width="5"/>
+    
+    <!-- Eyes (closed happy) -->
+    <path d="M 200 240 C 210 230 230 230 240 240" fill="none" stroke="#b1a0b5" stroke-width="5"/>
+    <path d="M 260 240 C 270 230 290 230 300 240" fill="none" stroke="#b1a0b5" stroke-width="5"/>
+    
+    <!-- Blush -->
+    <circle cx="190" cy="260" r="15" fill="#ffcccc" opacity="0.7"/>
+    <circle cx="310" cy="260" r="15" fill="#ffcccc" opacity="0.7"/>
+    
+    <!-- Tail -->
+    <path d="M 350 320 C 380 300 410 320 410 280" fill="none" stroke="#b1a0b5" stroke-width="10" stroke-linecap="round"/>
+  </g>
+</svg>
